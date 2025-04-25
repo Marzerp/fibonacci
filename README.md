@@ -1,2 +1,2 @@
-# fibonacci
-pryecto nuevo 
+# Fibonacci Series
+proyecto nuevo 
